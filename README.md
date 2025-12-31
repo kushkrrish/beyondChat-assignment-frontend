@@ -116,6 +116,11 @@ import "./index.css";
 ## 🚀 Ready to Go
 
 Your frontend is now up and running and connected to the backend APIs.
+### URL for website
+```url
+https://gentle-praline-8625fd.netlify.app/
+
+```
 
 ---
 
